@@ -1,16 +1,13 @@
-## Hi there 👋
+### I'm Matteo Rinaldi
 
-<!--
-**Matteorinaldi-Web3/Matteorinaldi-Web3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a blockchain developer focused on building practical and reliable
+decentralized applications. I enjoy working with Solidity, Ethereum,
+Web3 libraries, and modern frontend technologies to turn blockchain
+concepts into usable software.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Blockchain+Developer;Smart+Contract+Engineer;Ethereum+%7C+Solidity+%7C+Web3;Building+the+next+generation+of+dApps)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current interests include smart contract architecture, DeFi
+applications, token standards, blockchain security, and developer
+tooling. I also enjoy creating open-source projects that make Web3
+technology easier to understand and experiment with.
